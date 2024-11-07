@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I61o+oPbJCV5lCZgy0ovfvCrFy5wAH+z8mBZytSmICE=",
+  "Source": "Microservice.ShoppingCarts.WebAPI",
+  "BasePath": "_content/Microservice.ShoppingCarts.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

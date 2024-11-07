@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Yz6UZ+sO0z9qiYsTn1pglS/bqfcb7vvWbCRqU5wdcOE=",
+  "Source": "Microservice.Gateway.YARP",
+  "BasePath": "_content/Microservice.Gateway.YARP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

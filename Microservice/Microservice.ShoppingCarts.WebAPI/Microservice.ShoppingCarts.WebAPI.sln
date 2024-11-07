@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservice.ShoppingCarts.WebAPI", "Microservice.ShoppingCarts.WebAPI.csproj", "{1ED48CB7-35D9-445B-9FE2-80E1EF0F6DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED48CB7-35D9-445B-9FE2-80E1EF0F6DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED48CB7-35D9-445B-9FE2-80E1EF0F6DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED48CB7-35D9-445B-9FE2-80E1EF0F6DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED48CB7-35D9-445B-9FE2-80E1EF0F6DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDD59B7-718A-42F1-A906-B4961AAD0C50}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Microservice.Orders.WebAPI.props" />
+</Project>
